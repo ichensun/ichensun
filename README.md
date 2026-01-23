@@ -14,7 +14,7 @@
 ## Hi there~ 👋
 
 - ♓️ I'm a INFJ Computer Science Student
-- 🎯 I'm currently learning full stack development, microservces
+- 🎯 I'm currently working on Backend devleopment, AI development, Agentic AI, RAG, Memory Context
 - 🎾 I'm currently playing tennis, pickleball
 - 💪 Stay healthy, stay fit
 
