@@ -17,7 +17,7 @@
 - 🎯 I'm currently working on Backend devleopment, AI development, Agentic AI, RAG, Memory Context, Prompt Engineering
 - 🎾 I'm currently playing tennis, pickleball
 - 💪 Stay healthy, stay fit
-- 🎮 World of Warcraft, League of Legend
+- 🎮 Dota2, Resident Evil, Survival Builder
 
 ## 💻 Tech Stack
 
