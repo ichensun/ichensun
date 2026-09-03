@@ -4,9 +4,9 @@
 ### Software Engineer
 
 <p>
-  <a href="mailto:yichen.sun0301@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <br />
-  <a href="https://www.linkedin.com/in/yicsun0301/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:yichen.sun0301@gmail.com"><img src="https://img.shields.io/badge/Email-black?logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/yicsun0301/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=-Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/user6979Zc/"><img src="https://img.shields.io/badge/leetcode-black?logo=leetcode" /></a>
 </p>
 
 </div>
